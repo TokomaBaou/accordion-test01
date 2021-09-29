@@ -1,3 +1,5 @@
+import $ from "jquery";
+
 //アコーディオンをクリックした時の動作
 $(".title").on("click", function () {
   //タイトル要素をクリックしたら
