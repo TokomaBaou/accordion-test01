@@ -10,7 +10,8 @@
   "dependencies": {
     "jQuery": "1.7.4",
     "jquery": "3.6.0",
-    "parcel-bundler": "^1.6.1"
+    "parcel-bundler": "^1.6.1",
+    "style.css": "1.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0"
